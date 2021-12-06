@@ -1,0 +1,19 @@
+#include <stdio.h>
+
+int helper(){
+	return a;
+}
+
+int main () {
+	int a;
+	while(1){
+		printf(2*5);
+	}
+	helper();
+	a = 10;
+	for(a=2;a<10;a=a+1){
+		printf(2+5);
+	}
+	
+	return 0;
+}
